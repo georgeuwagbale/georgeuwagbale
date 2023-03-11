@@ -1,52 +1,65 @@
-# Profile picture
-![Profile picture](https://github.com/[username].png)
+<!-- Header section -->
+<p align="center">
+  <img src="https://github.com/[username].png" width="200" height="200" />
+</p>
 
-# Username
-## [Username](https://github.com/[username])
+<h1 align="center">[Username]</h1>
 
-# Bio
-[Short bio highlighting your expertise or areas of interest in computer science]
+<p align="center">
+  [Short bio highlighting your expertise or areas of interest in computer science]
+</p>
 
-# Location
-📍 [Location]
+<!-- Information section -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-[Location]-brightgreen" />
+  <img src="https://img.shields.io/badge/Email-[Email address]-blue" />
+  <img src="https://img.shields.io/badge/Website-[Personal website]-orange" />
+</p>
 
-# Email
-📧 [Email address]
+<!-- Pinned repositories section -->
+<h2 align="center">Pinned repositories</h2>
 
-# Website
-🌐 [Personal website]
+<p align="center">
+  <a href="https://github.com/[username]/[repository-1]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[username]&repo=[repository-1]&show_owner=true" />
+  </a>
+  <a href="https://github.com/[username]/[repository-2]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[username]&repo=[repository-2]&show_owner=true" />
+  </a>
+  <a href="https://github.com/[username]/[repository-3]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[username]&repo=[repository-3]&show_owner=true" />
+  </a>
+</p>
 
-# Pinned repositories
-- [Repository 1](https://github.com/[username]/[repository-1])
-- [Repository 2](https://github.com/[username]/[repository-2])
-- [Repository 3](https://github.com/[username]/[repository-3])
+<!-- Contribution graph section -->
+<h2 align="center">Contribution graph</h2>
 
-# Contribution graph
-[Contribution graph]
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=[username]&bg_color=ffffff&color=5BCDEC&line=5BCDEC&point=5BCDEC&hide_border=true" />
+</p>
 
-# Overview of repositories
-## Owns
-- [Repository 1](https://github.com/[username]/[repository-1])
-- [Repository 2](https://github.com/[username]/[repository-2])
-- [Repository 3](https://github.com/[username]/[repository-3])
+<!-- Overview of repositories section -->
+<h2 align="center">Overview of repositories</h2>
 
-## Contributes to
-- [Repository 1](https://github.com/[contributor-1]/[repository-1])
-- [Repository 2](https://github.com/[contributor-2]/[repository-2])
-- [Repository 3](https://github.com/[contributor-3]/[repository-3])
+<h3 align="center">Owns</h3>
 
-## Stars
-- [Repository 1](https://github.com/[starred-1]/[repository-1])
-- [Repository 2](https://github.com/[starred-2]/[repository-2])
-- [Repository 3](https://github.com/[starred-3]/[repository-3])
+<p align="center">
+  <a href="https://github.com/[username]/[repository-1]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[username]&repo=[repository-1]&show_owner=true" />
+  </a>
+  <a href="https://github.com/[username]/[repository-2]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[username]&repo=[repository-2]&show_owner=true" />
+  </a>
+  <a href="https://github.com/[username]/[repository-3]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[username]&repo=[repository-3]&show_owner=true" />
+  </a>
+</p>
 
-# Followers and following
-👥 [Number of followers] followers | [Number of following] following
+<h3 align="center">Contributes to</h3>
 
-# Organizations
-[Organization 1]
-[Organization 2]
-[Organization 3]
-
-# Activity
-[Recent activity related to computer science, such as commits, pull requests, or issues in relevant repositories]
+<p align="center">
+  <a href="https://github.com/[contributor-1]/[repository-1]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[contributor-1]&repo=[repository-1]&show_owner=true" />
+  </a>
+  <a href="https://github.com/[contributor-2]/[repository-2]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[contributor-2]&repo=[repository-2]&show_owner=true"
