@@ -3,7 +3,7 @@
   <img src="https://github.com/george.jpg" width="200" height="200" />
 </p>
 
-<h1 align="center">[Username]</h1>
+<h1 align="center">georgeuwagbale</h1>
 
 <p align="center">
   [Short bio highlighting your expertise or areas of interest in computer science]
@@ -45,13 +45,13 @@
 
 <p align="center">
   <a href="https://github.com/[username]/[repository-1]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[username]&repo=[repository-1]&show_owner=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=georgeuwagbale&repo=[repository-1]&show_owner=true" />
   </a>
   <a href="https://github.com/[username]/[repository-2]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[username]&repo=[repository-2]&show_owner=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=georgeuwagbale&repo=[repository-2]&show_owner=true" />
   </a>
   <a href="https://github.com/[username]/[repository-3]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[username]&repo=[repository-3]&show_owner=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=georgeuwagbale&repo=[repository-3]&show_owner=true" />
   </a>
 </p>
 
