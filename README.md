@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center"> Hi, I'm [Username]! </h1>
+<h1 align="center"> Hi, I'm George Uwagbale! </h1>
 
 <p align="center">
   <a href="[Personal website link]">
