@@ -1,6 +1,6 @@
 <!-- Header section -->
 <p align="center">
-  <img src="https://github.com/george.png" width="200" height="200" />
+  <img src="https://github.com/george.jpg" width="200" height="200" />
 </p>
 
 <h1 align="center">[Username]</h1>
