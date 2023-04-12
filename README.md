@@ -36,15 +36,15 @@
 <h2 align="center"> GitHub Stats </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[username]&show_icons=true&theme=tokyonight" alt="[Username]'s GitHub Stats" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[username]&theme=tokyonight" alt="[Username]'s GitHub Streak" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=georgeuwagbale&show_icons=true&theme=tokyonight" alt="georgeuwagbale's GitHub Stats" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=georgeuwagbale&theme=tokyonight" alt="georgeuwagbale's GitHub Streak" width="50%" />
 </p>
 
 <!-- Top languages -->
 <h2 align="center"> Top Languages </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[username]&layout=compact&theme=tokyonight" alt="[Username]'s Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeuwagbale&layout=compact&theme=tokyonight" alt="georgeuwagbale's Top Languages"/>
 </p>
 
 <!-- Visitors counter -->
