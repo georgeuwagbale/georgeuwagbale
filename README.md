@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center"> Hi, I'm George Uwagbale! </h1>
 <p align="center">
-  <a href="[Personal website link]">
+  <a href="https://georgeuwagbale.github.io/">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=Google-Chrome&logoColor=white"/>
   </a>
   <a href="[LinkedIn profile link]">
