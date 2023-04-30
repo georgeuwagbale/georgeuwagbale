@@ -13,7 +13,7 @@
 </p>
 <!-- Introduction -->
 <p align="center">
-  I'm a Computer Scientist with a passion for [topics you're interested in]. I enjoy [hobbies or interests outside of programming].
+  I'm a Computer Scientist with a passion for Cybersecurity and Weapons System technology. I enjoy playing football, playing video games, and cooking.
 </p>
 <!-- Skills -->
 <h2 align="center"> My Skills </h2>
