@@ -9,7 +9,7 @@ Currently, I am working on a small operating system in the Rust Programming lang
 <a href="https://twitter.com/george_uwagbale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="george_uwagbale" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/george uwagbale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="george uwagbale" height="30" width="40" /></a>
 <a href="https://fb.com/george ikechukwu uwagbale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="george ikechukwu uwagbale" height="30" width="40" /></a>
-<a href="https://instagram.com/george_uwagbale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="george_uwagbale" height="30" width="40" /></a>
+<a href="https://instagram.com/georgeuwagbale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="georgeuwagbale" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
